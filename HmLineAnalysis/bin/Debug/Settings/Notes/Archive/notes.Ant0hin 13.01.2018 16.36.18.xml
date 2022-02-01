@@ -1,0 +1,1737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<notes version="1">
+  <labels>
+    <label id="0" color="30DBFF">Custom Label 1</label>
+    <label id="1" color="30FF97">Custom Label 2</label>
+    <label id="2" color="E1FF80">Custom Label 3</label>
+    <label id="3" color="FF9B30">Custom Label 4</label>
+    <label id="4" color="FF304E">Custom Label 5</label>
+    <label id="5" color="FF30D7">Custom Label 6</label>
+    <label id="6" color="303EFF">Custom Label 7</label>
+    <label id="7" color="1985FF">Custom Label 8</label>
+  </labels>
+  <note player="!c3fr0g" label="0" update="1443377647">@ call push 1/1 A7 
+or KK-4 
+m3bet AK-7 
+cb ||1|1| 
+mc 2|||| 
+2cb Пара 
+raise ||2|2|5 
+riverPot ||||2</note>
+  <note player="#1Vigna" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="$243.31" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="$ilviu253" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="-KeNo-808" label="0" update="1510933335">@ bluff river ip</note>
+  <note player=".ReloaÐ." label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="010159" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="032604" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="06Rady" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="070271" label="0" update="1511072886">xr f draw @ bluff donk pot</note>
+  <note player="0jakkeli" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="11baron11" label="6" update="1510933335">@</note>
+  <note player="123456789089" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="123SamRagga" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="13101307" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="17habs1963" label="3" update="1510945771"></note>
+  <note player="1981dimon" label="6" update="1510941500">@</note>
+  <note player="1986mike1986" label="6" update="1510941500">@</note>
+  <note player="1badwombat" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="1eet1337" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="20Aron13" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="22LuckyHand" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="24/7Baked" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="2K_foodboss" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="4 OF A FISH" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="421969404" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="4ekup" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="4tehduke" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="4Vader" label="3" update="1510945771"></note>
+  <note player="5al3" label="3" update="1510945771"></note>
+  <note player="61Mr_Green61" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="66seadog" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="777means" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="777YODA777" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="77irek" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="?ThEJ0kKer?A" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="@HTOH" label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="[TiK]dnk" label="7" update="1513496306"></note>
+  <note player="_pin_1985" label="6" update="1510933335">@</note>
+  <note player="aa222333" label="3" update="1510945771"></note>
+  <note player="ab260414" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="abcent8686" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Abukz1" label="3" update="1510942786"></note>
+  <note player="AC Bai507" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="acenjack95" label="3" update="1510945771"></note>
+  <note player="AceToFour" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="adai2009" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="adam.cavajda" label="3" update="1510942786"></note>
+  <note player="adammc86" label="3" update="1510945771"></note>
+  <note player="AddeOnFire!" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="adrian_bibis" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="aenas77" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="aggehoo" label="3" update="1510945771"></note>
+  <note player="AHKA62" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ailing1111" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="AkulaDim" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Alanbenjamin" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Albert111283" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Alecar900" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Alejitoalzat" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ALEKS 32300" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="aleks_82777" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="Aleksand.m82" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="AleksandrLem" label="7" update="1512800519"></note>
+  <note player="Alekseykreml" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="AlenkaY77" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Alesandro107" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Alex" label="3" update="1510945771"></note>
+  <note player="Alex 1975646" label="3" update="1510918783">@ bluff donk pot</note>
+  <note player="Alex080667" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ALEXANDERA8A" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="alexcash78" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="AlexM86720" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Alexyum" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="alladin123" label="3" update="1510942786"></note>
+  <note player="allen72s" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="alur7" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="alza21" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="amanb553" label="3" update="1510945771"></note>
+  <note player="amisasi" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Anchalee" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="andgust" label="3" update="1510945771"></note>
+  <note player="andreaeciro" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Andrei777929" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Andrew hold" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Andrey111098" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ANDYHA0DTD" label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="AndyMandyx" label="3" update="1510942786"></note>
+  <note player="angipoker" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="anguli520" label="6" update="1510932797">@</note>
+  <note player="angustao" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="anjuna_75" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="AnsleyDunbar" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Aparatus88" label="3" update="1510942786"></note>
+  <note player="apetranici2" label="3" update="1510945771"></note>
+  <note player="apokerking98" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="arditetova" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Arisko33" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="arkadi111sh" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="arkanev" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="armedo313" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="arnuxs" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="aro_arqa1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Arrogance V." label="0" update="1510933335">@ bluff river ip</note>
+  <note player="art3k" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="ArtBMW520" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Artist129" label="3" update="1510942786"></note>
+  <note player="arturD_95" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ASENNA76" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="AslanE111" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="astiejohan69" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ASUS04" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="asus458406" label="3" update="1510942786"></note>
+  <note player="asxxxas1978" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Aurelian8" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="AweSomeKim" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="axatel" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="AZDM6" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="babylon23" label="0" update="1511072766">dada @ bluff donk pot</note>
+  <note player="babyvik909" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bacai1944" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Bacek1993" label="3" update="1510942786"></note>
+  <note player="Bad_Rudolph" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="bakki1" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="balanced420" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Balgaa" label="3" update="1510945771"></note>
+  <note player="Balle 1993" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="ballers7420" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Ballgam3" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="BamoEh" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="BandK99" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="banjul2" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="BanterFish" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Baraholkin" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Barclay517" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="barnbarn15" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="barolo14" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="BarrieF10" label="6" update="1510933335">@</note>
+  <note player="BarryTheGeek" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="battalion705" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="BavariaMan11" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bbqrice" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bddpkr" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="be92mor" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="beautyfulll" label="3" update="1510945771"></note>
+  <note player="bece12" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Becks_Game" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="BecLewy" label="3" update="1510945771"></note>
+  <note player="belbks077" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="BeLoveAlex" label="7" update="1512800039"></note>
+  <note player="Bely DA" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Bendsaa" label="3" update="1510945771"></note>
+  <note player="benjo22_1986" label="3" update="1510942786"></note>
+  <note player="berill1986" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Berloutch198" label="3" update="1510942786"></note>
+  <note player="Betz12" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="beyjey1" label="3" update="1510945771"></note>
+  <note player="bgmonti76" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bianca241280" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="big dg16" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="bigballa164" label="3" update="1510945771"></note>
+  <note player="BigEll25" label="3" update="1510945771"></note>
+  <note player="bigheadlee" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="BigHorn911" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Bigpops1205" label="6" update="1510941500">@</note>
+  <note player="Bijenga" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="bilat" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="bingobengt1" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bip_lim_87" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="bitterdream" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bizzkkk" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="BJ0007" label="3" update="1510942786"></note>
+  <note player="Bkmbx86" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Blackin1i" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Bladesman87" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Blair519" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="blazkris" label="3" update="1510933336">@ bluff river ip</note>
+  <note player="blitze59" label="3" update="1510942786"></note>
+  <note player="block_check" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="bob dehhh" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Bocyk" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="boef318" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="bolomutus" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="boltorious42" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="bomberman848" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="bonniesroom" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="bontobee" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Boondizzle" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="BOSS557722" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="BOUGGHA" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="boundjr" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Bozskej K4ja" label="3" update="1510945771"></note>
+  <note player="brakel1" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Brand0o2" label="3" update="1510945771"></note>
+  <note player="Brandi98" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="brianpostma9" label="3" update="1510945771"></note>
+  <note player="BRMP1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="bruceke95" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="bsk4u" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="bsokoli" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="BSSinicio" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="BSWN" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="btnatural" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="BUFFEDnWAXED" label="3" update="1510942786"></note>
+  <note player="Bugry777" label="3" update="1510945771"></note>
+  <note player="BuPa17" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="buzzer1954" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="bveselji" label="3" update="1510945771"></note>
+  <note player="calaresc" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="CANOFCHEESE" label="3" update="1510945771"></note>
+  <note player="carpool101" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="CARSY" label="3" update="1510945771"></note>
+  <note player="CashUrChecks" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="cassa6682" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Cassi08" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Caster Pils" label="6" update="1510933335">@</note>
+  <note player="cata.mario91" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="CatalaCule" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="CBIRD99" label="3" update="1510945771"></note>
+  <note player="CC269" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="cemisko1982" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="CH-Pro77" label="6" update="1510941500">@</note>
+  <note player="charles3687" label="3" update="1510945771"></note>
+  <note player="checkasnoris" label="3" update="1510945771"></note>
+  <note player="chefkoch6" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="cheops1" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Chetro_40" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="cheung97" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Chinczo27" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="chisty84" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="chrisG98" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="chrismatra" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="chrispigge" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="cigano49" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Cimen10" label="3" update="1510945771"></note>
+  <note player="ciudadano593" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Ciumcium" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Clamfish0" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="clarkie6533" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Cloodie" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="cobacbip6789" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Cocnun" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="CoderYCG" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Cody Wong" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="coleshea27" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Colochini123" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Cologigle61" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="coocooper" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="coolguy756" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="copags" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Cowboy99948" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Crazytiger7" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="crisK9" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="cristian8732" label="6" update="1510941500">@</note>
+  <note player="critoss" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Crossbree" label="7" update="1512800039"></note>
+  <note player="cru3w" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="csaby2889" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ctepan447" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Ctgapoker" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="D3NyA" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="d5t6y7" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="dadaa88" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="DaikenGF" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="DakattaS" label="6" update="1510941500">@</note>
+  <note player="damian19v" label="3" update="1510942786"></note>
+  <note player="damir3330" label="3" update="1513497326"></note>
+  <note player="Dan1elSENIOR" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="danboxeru" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="DanExcel" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="DangerBiceps" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="danielvacit" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="dantr21212" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="dariuscs1" label="3" update="1510942786"></note>
+  <note player="Dats280" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="daveymac23" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Daz0191" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="dcyd718" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="deadcash1990" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="deadcurry" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="dedamoroz" label="6" update="1510941500">@</note>
+  <note player="Deepak.D" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="dejw997" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="demon7521" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="denbadden" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Deniro77" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Deniska20163" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="denydenyden" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="depsakha" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="der beste916" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="descaltatu83" label="3" update="1510942786"></note>
+  <note player="developerab" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="devildel2816" label="3" update="1510945771"></note>
+  <note player="devon06atX" label="3" update="1510942786"></note>
+  <note player="dianhuro21" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="DidiBras" label="3" update="1510945771"></note>
+  <note player="DIEEXPO" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="dieti55" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="dim_dim1975" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="dimbaliak63" label="3" update="1510945771"></note>
+  <note player="dimka64rus" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="dimmy1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="dimtim88" label="3" update="1510933336">@ bluff river ip</note>
+  <note player="dimwit12324" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="diplvwrg1" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="dipolio" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="divanniyCham" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="djronsta" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="DJstewart200" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="djtopato" label="6" update="1510941500">@</note>
+  <note player="DNEG8" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="DogaYog@" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="DON_ANTON777" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="donjuandy" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="DoPobedu" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Dormiens" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="dorthe68" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="dotado666" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="dpouty24" label="6" update="1510933335">@</note>
+  <note player="dr.khan_xxx" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Dr1zzt13" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="DrBober" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="DREAKOOL" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Dreek1992" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="drissmouzou" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="drnoskype1" label="3" update="1510945450"></note>
+  <note player="Droll91" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Dsnitser3s" label="3" update="1510933336">@ bluff river ip</note>
+  <note player="Dtk93" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="DuckloverN1" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="duguay3322" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="dumyy23" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="dupex1988" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Dushine" label="3" update="1510945771"></note>
+  <note player="DUUNHILL" label="3" update="1510945771"></note>
+  <note player="Dz473" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="dzoint" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Dzont777" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="eccolo92" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="edut15" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Edward Davis" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="eecasanas" label="3" update="1510945771"></note>
+  <note player="eeeeels" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="egon2112" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="El Muck" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="el-tsop" label="3" update="1510945771"></note>
+  <note player="El_J_Man" label="3" update="1510942786"></note>
+  <note player="ElmanOne" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Elvir07" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="emailvgoo" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="encountah" label="3" update="1510945771"></note>
+  <note player="engrockstar" label="3" update="1510942786"></note>
+  <note player="eraknut" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Ericred87" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="eryeye" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="essex161" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="esthetic2" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Etryman" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Evgeniy Khen" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="evinjado007" label="6" update="1510941500">@</note>
+  <note player="eyesellbeams" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="eztima" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="farber28" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="farbricioD" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="fatcat011" label="7" update="1513496306"></note>
+  <note player="febbb" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Felix.Yu16" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Felix_A15" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Femkommatvå" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="fenix832" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Fentorn" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Feria81" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="fernando4845" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Fetsne" label="3" update="1510945771"></note>
+  <note player="feynman185" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="FHeus1995" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="FHuebi" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="FikkuPisu" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Fil1703" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="filip883" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="filippa95" label="3" update="1510945771"></note>
+  <note player="findlay737" label="3" update="1510945771"></note>
+  <note player="fistagame" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="FloppFlipper" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="FlySky_Vic" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="folydr" label="7" update="1512800039"></note>
+  <note player="foolfake" label="3" update="1510945771"></note>
+  <note player="fortung7" label="3" update="1510945771"></note>
+  <note player="Forzasun" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Fqzien" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="francescogis" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="frankjr9" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="FreakTS" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="fredrory" label="3" update="1510945771"></note>
+  <note player="fredvandalay" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="freecanada33" label="3" update="1510945771"></note>
+  <note player="FRESHgenius" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="FriarTuck" label="3" update="1510945771"></note>
+  <note player="fromscrätch." label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="frostyteach" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="fub101" label="3" update="1510945771"></note>
+  <note player="FUHOUIN1115" label="3" update="1510942786"></note>
+  <note player="fullmarks52" label="3" update="1510942786"></note>
+  <note player="FunkyPonk104" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Furbzzz" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="g0ld5nb0yyy" label="3" update="1510945771"></note>
+  <note player="gabrielll88" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="gadzila2 nsk" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Gajtani7" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="gamesmasterh" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="GamI3it" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="garitopor777" label="7" update="1512799859"></note>
+  <note player="GaryGery" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="GBGPOWWER" label="3" update="1510945771"></note>
+  <note player="GBRking" label="6" update="1510941500">@</note>
+  <note player="geane1970" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="gelandrej123" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="GendolfKMV" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Genilson407" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="georg1899" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Georgedidge" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="georgeN86" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="georgespyr13" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="gerlesgerles" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="gg-army10" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ggan1977" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ghoastim" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Gidko2017" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Gidokaas" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="gigapuding" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Gimlin999" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="givemeBlades" label="6" update="1510933335">@</note>
+  <note player="gjohn1111" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="glass65" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Gleb187" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="glover6789" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="glyer123" label="3" update="1510945771"></note>
+  <note player="Godlike1379" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="GodPreben" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="gogo322003" label="3" update="1510942786"></note>
+  <note player="GolandGoland" label="3" update="1510945771"></note>
+  <note player="golfer264742" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="gonzaaar" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="gotnothing82" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="graemeadam" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Graf0000" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="GreenPl1st" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="greenspaceup" label="3" update="1510945771"></note>
+  <note player="GregGecko19" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="gregkusiak43" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="grentor" label="3" update="1510945771"></note>
+  <note player="gribbs4356" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="grinsmoke" label="7" update="1512800699"></note>
+  <note player="GSRD7320" label="3" update="1510945771"></note>
+  <note player="GStarBoo22" label="6" update="1510941500">@</note>
+  <note player="guest011" label="3" update="1510945771"></note>
+  <note player="gufcho0" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="GugaBHBRA" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="gumaluis" label="3" update="1510945771"></note>
+  <note player="Gummistøvle" label="3" update="1510945771"></note>
+  <note player="gun17sa" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="gunman91080" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="gurizza" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="gurnoor" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="gvacarlo" label="3" update="1510942786"></note>
+  <note player="gvultink" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Gynya1" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="H0U5E" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="hachuchucha" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Haiwatha" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="halko007" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="HamletDk" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="hamsterpig" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="hankyspan711" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="hansioma1974" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Hanurik79" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="harr77y" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="HazeHomies42" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="HB_zwz" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Hectorink" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Hemment" label="6" update="1510941500">@</note>
+  <note player="hendl_alex88" label="3" update="1510945771"></note>
+  <note player="herbest87" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="HeyKay888" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="hillyjonny" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="hirsteel" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="hklivecam" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Hleb17" label="3" update="1510945771"></note>
+  <note player="Hnusak28" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="hockey044" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="hoffinger99" label="6" update="1510941500">@</note>
+  <note player="holdma=3" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="HoMeP008" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Hophgarter 1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="HORATTAS" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="HorrorFox" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Hsadis01" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="huage111" label="3" update="1510945771"></note>
+  <note player="Hubi362" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="hucul6" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="hvannasund4" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ieringis 17" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="igor1990rogi" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="iharWiN" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="iKnapy1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="iknowflop" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Ilan-Lux" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ilfromnt" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Illum1nat" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="IlSerGam" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="ilyshaaa" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ImaBella" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="imir1111" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Imperatorr01" label="3" update="1510945771"></note>
+  <note player="ImUrPain" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="iNCR3DIZZ" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="indeec D" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Indonimus" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="iNs8Ta" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="InStL11" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="iolay sibir" label="6" update="1510941500">@</note>
+  <note player="Ira-new mom" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="irbis150" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="iremaa" label="3" update="1510942786"></note>
+  <note player="irina77755" label="3" update="1510945771"></note>
+  <note player="iron heart21" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="irundiz" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Is_it_Cheat?" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="isalie7" label="6" update="1510941500">@</note>
+  <note player="Isayspardon?" label="3" update="1510942786"></note>
+  <note player="ISeifertI" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="island_kyle" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="IStoleTheNut" label="7" update="1513499666"></note>
+  <note player="ivan brah" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ivory_xx" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="J Pop324" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="J-Joffer" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="j8081uelq" label="3" update="1510945771"></note>
+  <note player="J_Hood_613" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="JACK1E1990" label="3" update="1510945771"></note>
+  <note player="JacksonJohny" label="3" update="1510945771"></note>
+  <note player="JACKZN3S" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="jaco-volco" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="jacquy van" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="jaimetim" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="jam1889" label="3" update="1510945771"></note>
+  <note player="jamsyboy4816" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Jan_van_Eyck" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="janni1900" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="jansturm1" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Janystyle" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="jasonl0511" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="javiercas888" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="jay6789" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="JayDee-Snr" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Jazz604" label="3" update="1510945771"></note>
+  <note player="JeanPaulLu" label="3" update="1510942786"></note>
+  <note player="Jeep555rus" label="3" update="1510945771"></note>
+  <note player="jendrek22" label="3" update="1510945771"></note>
+  <note player="jerrew" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="jessj88" label="3" update="1510942786"></note>
+  <note player="jfbelmont" label="3" update="1510945771"></note>
+  <note player="jfe1990" label="3" update="1510945771"></note>
+  <note player="Jibaa" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="jimmymc1888" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="jinbige" label="3" update="1510945771"></note>
+  <note player="jintonic7" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="jk19695" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="JKT13" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Jo_jpp" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="johiitto" label="6" update="1510933336">@</note>
+  <note player="JohnD Walker" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="JohnPlayer82" label="6" update="1510933336">@</note>
+  <note player="Jomibakku" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="jones12345" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="jonezmino@gmail" label="3" update="1510945771"></note>
+  <note player="jonnywbegood" label="6" update="1510941500">@</note>
+  <note player="jowilso" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="JP9562" label="3" update="1510945771"></note>
+  <note player="jppoker94" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="jroffe9992" label="3" update="1510945771"></note>
+  <note player="jtotheroc97" label="6" update="1510933335">@</note>
+  <note player="juhe88" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="juicijeff" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="julenzzm" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Jungle266" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="junior344" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="jurdiiihab" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="just1977411" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="justadam101" label="3" update="1510945450"></note>
+  <note player="jxeler" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="k-real18" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="kametoko" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="kango1985430" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="KapralDomas1" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="karaolos" label="3" update="1510945771"></note>
+  <note player="karas592" label="3" update="1510945771"></note>
+  <note player="karguy78" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="karlione116" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="karmasuper__" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="karolux1993" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Karson628" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="kasim009378" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="kati132" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="KAVKAZ272" label="3" update="1510942786"></note>
+  <note player="kbrei" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="kcr1999" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="KCurry" label="3" update="1510945771"></note>
+  <note player="kele9" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="kenggy" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="kesvait" label="3" update="1510945771"></note>
+  <note player="kevinzx" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Kidgov" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="kikarse" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Kiltzy" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="kime007" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Kingen666666" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="kinglaze" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="kinglee12331" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="KingStilHigh" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="KingWoofta" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="kingy19697" label="3" update="1510945771"></note>
+  <note player="kirillsk161" label="3" update="1510945771"></note>
+  <note player="KISERG" label="6" update="1510941500">@</note>
+  <note player="KKVDN" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="klk1995" label="3" update="1510942786"></note>
+  <note player="knacknuss6" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="KnightKeZ" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Kniking" label="3" update="1510945771"></note>
+  <note player="KnucklesAK" label="3" update="1510942786"></note>
+  <note player="kobablack77" label="3" update="1510945771"></note>
+  <note player="KoKa154" label="3" update="1510945771"></note>
+  <note player="koka1980" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Komap511" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Komapekc" label="3" update="1510945771"></note>
+  <note player="kondor721" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Konrad-Andre" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="KostyBatov" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="kototoro" label="3" update="1510942786"></note>
+  <note player="koxik1301" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="kpryor84" label="3" update="1510945771"></note>
+  <note player="Krap3333" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="krasivia22" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Krickstar4U" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Krissolh" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Kristjan1166" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="krotki1982" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="kruegi 709" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Krullski" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="ku1erok" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Kucher36" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Kuznets33" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="KWubZ10" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="kyberias007" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="La5hkins" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Landsitz" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="larcier2" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Lasch04" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="laufer007" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="LDL131313" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="le_pavel.94" label="3" update="1510945771"></note>
+  <note player="Leeks78" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Legendpro" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="legrandkr" label="3" update="1510945771"></note>
+  <note player="lemon349" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Lennon707" label="3" update="1510945771"></note>
+  <note player="leon091083" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Leonidas 096" label="3" update="1510945771"></note>
+  <note player="lerkur" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="LetacioSilva" label="3" update="1510933336">@ bluff river ip</note>
+  <note player="Levan112" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="LifeIS888" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="LifeisNumber" label="6" update="1510933335">@</note>
+  <note player="LINDER519" label="3" update="1510945771"></note>
+  <note player="liosa21" label="3" update="1510945771"></note>
+  <note player="Liryk22" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="LisahVanKuna" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ljjohansson" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ljr900723" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="lkjh89" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="llirik31" label="3" update="1510945771"></note>
+  <note player="lmjieee" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Logos1983" label="3" update="1510942786"></note>
+  <note player="Lordbeaudoin" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Lorenzosavoi" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="losssko" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Loulougoal" label="3" update="1510945771"></note>
+  <note player="LSL410" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="LSTHE4TH" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="lsyz" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="luca_nr17" label="3" update="1510945771"></note>
+  <note player="LucasW21" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="luchoguara" label="7" update="1512800699"></note>
+  <note player="LUCKER1111" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="LuckGameSkills" label="3" update="1510945771"></note>
+  <note player="lucky3ND" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="lucky4bet" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="LUCKYCAT555" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="LuckyJO777" label="7" update="1513496966"></note>
+  <note player="luitzistolte" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="lukmor107" label="3" update="1510933336">@ bluff river ip</note>
+  <note player="Lumon0001" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="LUTAFISKEN" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Läppchen123" label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="m.n.125" label="3" update="1510945771"></note>
+  <note player="M.R._Hisenberg." label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="M.runiA98" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="maadoo" label="3" update="1510945771"></note>
+  <note player="machouingg" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="madko" label="3" update="1510942786"></note>
+  <note player="madmax9376" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Madudin" label="3" update="1510945771"></note>
+  <note player="MagdaParadis" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="magnusshot" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="maiko008" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="MAIKUS999" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="makasobaka" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="makoloss" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="malcom355" label="6" update="1510933336">@</note>
+  <note player="malikthedog" label="6" update="1510933335">@</note>
+  <note player="Malphan" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mamontenok84" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="manD_Grinder" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="manhorrr" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ManolisPav" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mantamo.MJ" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Maqui1143" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="MarafonRuN" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="marajohn_90" label="3" update="1510945771"></note>
+  <note player="Marc42555" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="marcelo1326" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="mardoc" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="marianoboni" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="markandtammy" label="3" update="1510945771"></note>
+  <note player="MarkinVG" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Marko Polo85" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Markson11" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Maroto_PL" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="martin589513" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Martini77" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="martl1953553" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="martyy99" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mash87uk" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="masskata66" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mastaunivrs" label="3" update="1510945771"></note>
+  <note player="MatchoAA18" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Mathil_16" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="mattb1b" label="3" update="1510945771"></note>
+  <note player="Maxxtrot" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="MB8701" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mc.phenomen" label="3" update="1510945771"></note>
+  <note player="mcguire2017" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="McLaine7" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="MCR100RR" label="3" update="1510942786"></note>
+  <note player="MeatPierogi" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mel56nik" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="melihkay" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="MEMENTISTES?" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="merdan996" label="3" update="1510945771"></note>
+  <note player="merosgolds" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="MerwanH1992" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mgl_hustler" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="mgpoker1964" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="MGpoker98" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="MHD_ABBASSI" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="michasia" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mickaelHD" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mickyg52" label="3" update="1510945771"></note>
+  <note player="Mihalich61" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Miilo0t" label="6" update="1510941500">@</note>
+  <note player="mikef_nz" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="MikleMyx" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="miklovan42" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="milkyboy kid" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="milkyvt" label="3" update="1510942786"></note>
+  <note player="mimasu" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Mimimimi77" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mindes323" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Mindogas" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Minibuck99" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mirranaa" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="misterycall" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="mjackson1992" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mjp5769" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mkLesbos" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="MLP876" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mm1997419" label="6" update="1510941500">@</note>
+  <note player="Mmahedy" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="mneli4" label="3" update="1510945771"></note>
+  <note player="Mollo134" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="money68688" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="MoonChildxx" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="morffius777" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Morgot D" label="3" update="1512800519"></note>
+  <note player="Morgs25" label="3" update="1510942786"></note>
+  <note player="mostarr74" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Moziro9513" label="3" update="1510945771"></note>
+  <note player="Mr Chook" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="mr.Aidek" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Mr.yyyyyy" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Mr_Ingvarr" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="mrcheong328" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="MrKentV" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Mrs Jolie441" label="3" update="1510942786"></note>
+  <note player="Ms1cht" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="MTT_NLHE" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="MuchaLT" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Muebi1991" label="3" update="1510945771"></note>
+  <note player="mughen" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="mully1323" label="3" update="1510945771"></note>
+  <note player="mungo113" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="MurphyIron" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Muslim744" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Muz1970" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="myevc" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="n2405n" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="najeemeski" label="3" update="1510945771"></note>
+  <note player="NandoDaneluz" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="napoli312" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="narkoman 67" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="natejohn83" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="neal1111111" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="neda2012986" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="negraneau88" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="neirfyS" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="NekOoBe" label="3" update="1510945771"></note>
+  <note player="neokice" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Neon946" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Nepenthe667" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Nevsta227" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="newhxg120" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="nhstar90" label="6" update="1510933335">@</note>
+  <note player="nicbrowning" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Nichnik" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="nico51083" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="NiCx3" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Nikita35" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="nikmar04" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="NIKOLA2453" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="nikolanata" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Nille12257" label="3" update="1510942786"></note>
+  <note player="NINESEVEN773" label="3" update="1510945771"></note>
+  <note player="nippesboy" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="niubihehe" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Niwakatu" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="nlbrewer" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="no-gazzzi" label="3" update="1510945771"></note>
+  <note player="NoobSaibo751" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Nooffub" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="NoOutsToCall" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="notyourmkb" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Novic0788" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Nowakattack" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Numse0Y2k" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="nutu&amp;lumy" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="nuturom" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="obnix" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Ocheanu89137" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ODIN-23-ua" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Ogyrcov2010" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="oita poker" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="OJMaverick" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="okopon" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="OksiMS" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="olegan3434" label="6" update="1510933336">@</note>
+  <note player="ololo nomnom" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="ONLYBLEFF13" label="6" update="1510941500">@</note>
+  <note player="op1um999" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Orange474" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="OscarYane" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="oster123" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="ovie31" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="oxxxy" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ozzbor01" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="p33t3r" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="pAArich" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PACCBET61RUS" label="3" update="1510945771"></note>
+  <note player="Padialex" label="3" update="1510945771"></note>
+  <note player="pagu pezza 1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="paksasha75" label="6" update="1510933336">@</note>
+  <note player="pan1297" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PandaAs" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PANSCHEV" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="panucci2010" label="6" update="1510941500">@</note>
+  <note player="pap01658" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="partycrowd777" label="3" update="1510945771"></note>
+  <note player="paschalisbg" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pashka148" label="7" update="1512800699"></note>
+  <note player="patmagic419" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="patrik1695" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Pats29" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="pattaya01" label="3" update="1513496966"></note>
+  <note player="paunovgeorgi" label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PavelBolsh" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="pEaNuTTT88" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pearseman657" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="peejay767" label="6" update="1510933336">@</note>
+  <note player="peixetlleide" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="perfekcionist08" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="petar098" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="peterwinter6" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="PGA1311" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="pgboy1987" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="phileur" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="philhole" label="3" update="1510945771"></note>
+  <note player="Pickeneen" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="PimPnPete" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PineTreeMary" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="pingbiceps" label="3" update="1510945771"></note>
+  <note player="pinkett69" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="PINNY246" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Pixit76" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pjhardy" label="3" update="1510942786"></note>
+  <note player="pkrkiNgZ420" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="pl2" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Player2_mgn" label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pod3r" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="poker mag240" label="6" update="1510941500">@</note>
+  <note player="PokerBlocker" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="pokercham136" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="pokercowboyz" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="POKERFEVE949" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pokerfish208" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pokernoob355" label="6" update="1510933335">@</note>
+  <note player="pokertime104" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="PokeyDY2016" label="3" update="1510942786"></note>
+  <note player="poledo" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="porix1985" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="porka000" label="3" update="1510945771"></note>
+  <note player="porkie33" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PoStMann2" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="postsoldier1" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="PotgrabberAA" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="pravkosto" label="3" update="1510945771"></note>
+  <note player="Prebendk" label="3" update="1510942786"></note>
+  <note player="presto369" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Principal099" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="prinzealbert" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="privateer19" label="7" update="1513497626"></note>
+  <note player="progery81" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="proomoo" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="prophet436" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="PSFzzzzz" label="7" update="1512800519"></note>
+  <note player="psreddy24" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="PsyCatStyle" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="PugoGrasse" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Pusi12" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="pussybeast" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="putitofast" label="6" update="1510933335">@</note>
+  <note player="pythonn" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="qpodd" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="quarant1ne" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="quebecboy79" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="qun2012" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="qwerty1234qw" label="7" update="1513496486"></note>
+  <note player="qwise" label="3" update="1510942786"></note>
+  <note player="r.i.adrian" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="R0BMAN03" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="r0y4lf1us4" label="3" update="1510945771"></note>
+  <note player="r3in" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Racingdicto" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="rad8205" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="raddish1234" label="3" update="1510945771"></note>
+  <note player="Radodo96" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Rael Caires" label="3" update="1510942786"></note>
+  <note player="ragnar59" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Rainbow Deal" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="rainie240" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Rambo97nz" label="3" update="1510942786"></note>
+  <note player="RammsteinRus" label="3" update="1510945771"></note>
+  <note player="Ramnares" label="3" update="1510945771"></note>
+  <note player="ramram00111" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="raphaeltoshi" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="rask2790" label="3" update="1510945771"></note>
+  <note player="rasti000" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ratfist" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="RAULPEDERNER" label="6" update="1510932797">@</note>
+  <note player="Rayner226" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="razels" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="razukhin" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Realalex87" label="3" update="1510918783">@ bluff donk pot</note>
+  <note player="Reaper399" label="3" update="1510945771"></note>
+  <note player="Redman3008" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Reffirious" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="regius_pied" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Reliktovyj" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="RENANTRU84" label="6" update="1510933335">@</note>
+  <note player="RevoIver" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ricardo_riro" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="RichPreacher" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="rigguwiggu" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="rinocerul123" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="rintymcginty" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="rioander78r" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Rob-clarke27" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="RoBnbIy Par9" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="rocket r7" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="RockStar2811" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Rodolph001" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ronto07" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="rose.kaylee" label="3" update="1510945771"></note>
+  <note player="rothu" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Rotti72" label="6" update="1510941500">@</note>
+  <note player="roubinaki" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="row-247" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="rowley129" label="3" update="1510942786"></note>
+  <note player="Royal_Pair21" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="RPSTP" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="rucktseca" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Rudolf555" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="RUORIJUOPPO" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Rushton14" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="rusich999" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="RWnuck" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="RyGuy569" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="s7yl3x" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="S@usnl" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="SafTdot" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="saidjon" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="saidukanu" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Saijajin16" label="3" update="1510942786"></note>
+  <note player="sajalol" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="sakasb" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="salahov1313" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="salamande141" label="6" update="1510941500">@</note>
+  <note player="samiovani" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="samlami 1" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="sarniapro14" label="3" update="1510945771"></note>
+  <note player="sasajunior" label="3" update="1510945771"></note>
+  <note player="SC0RIC" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="scareub69" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="SchangMz" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="schEELE" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Scheibuh" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="schloder" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Schulzy330" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="schumi130592" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Sebas_Bachet" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="sebkid" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="SebSeF" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="seki791" label="3" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="selby09" label="3" update="1510942786"></note>
+  <note player="sem099" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="sembalot" label="3" update="1510945771"></note>
+  <note player="Ser33777" label="3" update="1510945771"></note>
+  <note player="Serega0625" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="SeregaManai" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Serena2012" label="3" update="1510945450"></note>
+  <note player="Sergant20081" label="7" update="1513497626"></note>
+  <note player="serge_086" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Sergei68.04" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Sergej34" label="3" update="1510942786"></note>
+  <note player="sergejj77" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="sergemarley" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="sergerb7" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="sergeyM2006" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="serie2704" label="3" update="1510945771"></note>
+  <note player="SexyRacheal" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="sh19m" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="shahterden" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="shanker89" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="shark0289" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Shazzooo" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="shingo0904" label="3" update="1510945771"></note>
+  <note player="Shipthe$AA" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Shmatov D" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="shpoka777" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="shpurius" label="3" update="1510945771"></note>
+  <note player="shtrih200" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="sidam sualk" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Silvestr159" label="3" update="1510945771"></note>
+  <note player="sklansky007" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="skyfer333" label="3" update="1510942786"></note>
+  <note player="Skyroller" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="slam24181" label="3" update="1510945771"></note>
+  <note player="slavi269" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="slepblsh1988" label="7" update="1512800039"></note>
+  <note player="SlimJimPion1" label="3" update="1510945771"></note>
+  <note player="SlowDrop" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="sm4759" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Smaexx0507" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Smartapa" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="smileno99" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Snake1989_07" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Snowbawlls" label="3" update="1510945771"></note>
+  <note player="SoenderG" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="songjia" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="sotos22" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Soulfrozz" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Southeasty44" label="3" update="1510945771"></note>
+  <note player="Spartakus575" label="6" update="1510933336">@</note>
+  <note player="Sphere84" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="spider tku" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="spokyy2" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Spotlight_" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="squirlay864" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="srosatoledo" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ssswerhu" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="stadmuf" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Starboy63" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="starkamote" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Stas32region" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="stauranaca" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="stdk730" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="stefancile92" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Stelaras18" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="SteveS4Q" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="stflowa" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="stiff-45" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Stipa95lux" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="stonehslok" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="stoneshady" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="straushi77" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="StreetSteef" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Studenten98" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Suhorukou" label="7" update="1512800639"></note>
+  <note player="summit666681" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="SunderlandMad" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="superb1a" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="supris1" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="SvemirNemir" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="SvenK1977" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="sveporus" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="svobiksvobik" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Sweet_Chao" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="sy00" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="syd721" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="syslic19" label="3" update="1510945771"></note>
+  <note player="szevid" label="3" update="1513496846"></note>
+  <note player="Szubrawca" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Taburet_ZhB" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="tadeupn" label="3" update="1510945771"></note>
+  <note player="takato7789" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Talpa1985dut" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="tamir9909" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="tandreev88" label="3" update="1510942786"></note>
+  <note player="Tanks845" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="tanxianjia" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="TariqOakman" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="TarluNdd" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="tarndeep" label="3" update="1512800699"></note>
+  <note player="tatchmaster9" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="TayHoppy" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="tayota371" label="3" update="1510942786"></note>
+  <note player="TDAK1509" label="3" update="1510945771"></note>
+  <note player="tecuet" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Tehchino" label="2" update="1510918783">@ bluff donk pot</note>
+  <note player="TeofilVladut" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Termit777341" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="terrorich" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="TerRorShop89" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="tgre123" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Tha-Vinci86" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="thaman1987" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Thcyn6842" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="The Jc Tran" label="3" update="1510945771"></note>
+  <note player="thebriel" label="3" update="1510945771"></note>
+  <note player="thegunman88" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="TheJoker1369" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="TheMajKel" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="TheMooch98" label="6" update="1510933335">@</note>
+  <note player="Thermal0007" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="THOMASMURT" label="3" update="1510942786"></note>
+  <note player="thorif23" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ThorPedersen" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Tickledxo" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Tickt0ck77" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Tika175" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="tiksurin" label="6" update="1510933336">@</note>
+  <note player="Til-Tal" label="3" update="1510942786"></note>
+  <note player="tilt poker30" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="TiltFish13" label="3" update="1510945771"></note>
+  <note player="tily690" label="3" update="1510942786"></note>
+  <note player="TimeEndz" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="TimesUpTen." label="0" update="1510933336">@ bluff river ip</note>
+  <note player="timorws" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Tinca44" label="3" update="1510942786"></note>
+  <note player="tincaclaudia" label="6" update="1510941500">@</note>
+  <note player="tino3489" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="tipou37" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="tjani87" label="6" update="1510933336">@</note>
+  <note player="TJay87" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Tjpan" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="tlaloc0101" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Toce78" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="todo all in" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Tom Blues 99" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="TOMFICH" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="TomitanTheGreat" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Tommoslad" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="tommyalco" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="tonizerleger" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="tonyleungaa" label="3" update="1510945771"></note>
+  <note player="TopKras" label="3" update="1510945771"></note>
+  <note player="Torben Zinda" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Tormoz-spb" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ToshaRus" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="TPT - Emilio" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="TreborSuited" label="3" update="1510945771"></note>
+  <note player="trewq123" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Trivium_Taras" label="3" update="1510945771"></note>
+  <note player="trofimash30" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="trogy" label="7" update="1513497626"></note>
+  <note player="TRustoes" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="tryanotherna" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ttbaikal" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="tubbe78" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Tulpe1280" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Turbyn" label="3" update="1510942786"></note>
+  <note player="Turik024" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="TwistFate918" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="Tykevik" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="tyleralisha" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ubon 61" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ukkiron" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="Uliasss" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Ulugbek &quot;9&quot;" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="UmskaizzZ" label="7" update="1513497626"></note>
+  <note player="UNCLE-A007" label="3" update="1510945771"></note>
+  <note player="Underdpg321" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ura10011981" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="urrruuuu" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="UruGabo" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="usiman" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="V1p.777" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="vabo1322" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="vadiv7" label="6" update="1510933336">@</note>
+  <note player="Valzometr" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Vanbe96" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Vanekk555" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="vanes_samson" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Vanguards666" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="vasha 01.01" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="vasy141986" label="3" update="1510945771"></note>
+  <note player="Vasya7546" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Vesimursu" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Vet4aninov76" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Victze" label="3" update="1510918783">@ bluff donk pot</note>
+  <note player="vilo1070" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="vitally1982" label="3" update="1510942786"></note>
+  <note player="vitcipanta" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="vivopokersp" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="VKLO" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Vlad1m1r." label="0" update="1510933335">@ bluff river ip</note>
+  <note player="vladi902" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="Vollis Bike" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="vOvAn_LVA" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Vovchique" label="7" update="1512799859"></note>
+  <note player="Vovka7722" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="VreDnYY" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="vsvm0131" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="vvv999775" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="wallacechat" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Walle746" label="3" update="1510945771"></note>
+  <note player="WallyWeird" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="walzerli" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="wanchai74" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="wangyihui801" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Wardy29" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="warley_go" label="3" update="1510933335">@ bluff river ip</note>
+  <note player="warvor" label="3" update="1510942786"></note>
+  <note player="wasdmo" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="way2way" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="waypoint911" label="3" update="1510942786"></note>
+  <note player="whadafuq" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="whalestabber" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="whateverido" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="whazonson" label="3" update="1510945771"></note>
+  <note player="whirewheels" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="WhitorC" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="WHYME STILL" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="willc2307" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="willjohntin" label="3" update="1510945771"></note>
+  <note player="wingate427" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="wingbaron40" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="WinninBikini" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="wjtlwy" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="wloseksas" label="3" update="1510942786"></note>
+  <note player="Wolf19770424" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="WolthuisTim" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="Wolvesy7" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="woojoo_star" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="WRX-Fanatic" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="x.S.O.E.R.xx" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="xdrKush420x" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="XeroVez" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Ximphia" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="xrhstos25x" label="3" update="1510945771"></note>
+  <note player="xxgudvinxx" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="xXmsvXx" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="yan ram 1500" label="3" update="1510945771"></note>
+  <note player="YANEZZZZ" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="yellowrose88" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="yenilmez66" label="3" update="1510942786"></note>
+  <note player="Yesbrother!" label="0" update="1510918783">@ bluff donk pot</note>
+  <note player="yhmhm" label="2" update="1510918783">@ bluff donk pot</note>
+  <note player="ymmas1688" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="yokuochiruuu" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="YoungGriff86" label="3" update="1510942786"></note>
+  <note player="Your.Daddy" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="yourmum911" label="3" update="1510945771"></note>
+  <note player="Yousse22" label="2" update="1510932798">@ miss cb oop pair,A</note>
+  <note player="yungmook" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Zach CashG" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zaconer" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zacstepho" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zaguini" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zalikyahta86" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="zampino1997" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Zehh170" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="ZenderMan.fl" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="zenny" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="zenwyn" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zer1303" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zerodegains" label="3" update="1510945771"></note>
+  <note player="zeroxa89" label="3" update="1510945771"></note>
+  <note player="zezazo" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zhilyakov888" label="2" update="1510932797">@ miss cb oop pair,A</note>
+  <note player="Zhorik1990" label="7" update="1513499906"></note>
+  <note player="zidane1110" label="3" update="1510945771"></note>
+  <note player="ziza1993" label="3" update="1510945771"></note>
+  <note player="zlobslob" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="zlobul" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="zmv220" label="3" update="1510942786"></note>
+  <note player="zocker305" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="Zvst" label="0" update="1510933335">@ bluff river ip</note>
+  <note player="€~OS~€6" label="0" update="1510933336">@ bluff river ip</note>
+  <note player="ART3117" label="3" update="1515671022" />
+  <note player="senseimax" label="3" update="1515671022" />
+  <note player="batuuu1996" label="3" update="1515671022" />
+  <note player="basani18" label="3" update="1515671022" />
+  <note player="flying199" label="3" update="1515671022" />
+  <note player="bot2river" label="3" update="1515671022" />
+  <note player="nomadpokerpro" label="3" update="1515671022" />
+  <note player="gh92224" label="3" update="1515671022" />
+  <note player="M1ley" label="3" update="1515671022" />
+  <note player="ruby12456" label="3" update="1515671022" />
+  <note player="p0kerpope" label="3" update="1515671022" />
+  <note player="JLF135" label="3" update="1515671022" />
+  <note player="chessmasterw" label="3" update="1515671022" />
+  <note player="gelver1986" label="3" update="1515671022" />
+  <note player="cellern81" label="3" update="1515671022" />
+  <note player="Dix0n San" label="3" update="1515671022" />
+  <note player="doNotRec" label="3" update="1515671022" />
+  <note player="xiaobing114" label="3" update="1515671022" />
+  <note player="bl1tzzzz" label="3" update="1515671022" />
+  <note player="21 Jojo 21" label="3" update="1515671022" />
+  <note player="koresh242" label="3" update="1515671022" />
+  <note player="wollinho111" label="3" update="1515671022" />
+  <note player="marianna756" label="3" update="1515671022" />
+  <note player="Lystfiskeren77" label="3" update="1515671022" />
+  <note player="jf_carrier" label="3" update="1515671022" />
+  <note player="DenKenIa" label="3" update="1515671022" />
+  <note player="pbc1958" label="3" update="1515671022" />
+  <note player="PytonekJP" label="3" update="1515671022" />
+  <note player="moannaeh" label="3" update="1515671022" />
+  <note player="campfilm" label="3" update="1515671022" />
+  <note player="P4CHENKO" label="3" update="1515671022" />
+  <note player="ballsy77" label="3" update="1515671022" />
+  <note player="l3lood-hunter" label="3" update="1515671022" />
+  <note player="veronika1202" label="3" update="1515671022" />
+  <note player="ginoj88" label="3" update="1515671022" />
+  <note player="mc.svetliy91" label="3" update="1515671022" />
+  <note player="franci953" label="3" update="1515671022" />
+  <note player="toruntoguy" label="3" update="1515671022" />
+  <note player="rocco12445" label="3" update="1515671022" />
+  <note player="Lucky1985i" label="3" update="1515671022" />
+  <note player="simonsimon1s" label="3" update="1515671022" />
+  <note player="Maxtyt76" label="3" update="1515671022" />
+  <note player="BorisPokerGod" label="3" update="1515671022" />
+  <note player="Chinook42" label="3" update="1515671022" />
+  <note player="daniel1875" label="3" update="1515671022" />
+  <note player="Levchik F" label="3" update="1515671022" />
+  <note player="suberjong85" label="3" update="1515671022" />
+  <note player="petrivanko76" label="3" update="1515671022" />
+  <note player="prplwtr" label="3" update="1515671022" />
+  <note player="hlfplayer" label="3" update="1515671022" />
+  <note player="BlR7753191" label="3" update="1515671022" />
+  <note player="EagerToDream" label="3" update="1515671022" />
+  <note player="N@STy22" label="3" update="1515671022" />
+  <note player="adama88" label="3" update="1515671022" />
+  <note player="evander2918" label="3" update="1515671022" />
+  <note player="Boss2686" label="3" update="1515671022" />
+  <note player="sadieacesSP" label="3" update="1515671022" />
+  <note player="buljaone" label="3" update="1515671022" />
+  <note player="ArturPogo848" label="3" update="1515671022" />
+  <note player="Darkmistik" label="3" update="1515671022" />
+  <note player="Lorenz438" label="3" update="1515671022" />
+  <note player="akio2017" label="3" update="1515671022" />
+  <note player="wubi" label="3" update="1515671022" />
+  <note player="littlemain 5" label="3" update="1515671022" />
+  <note player="julezboucher" label="3" update="1515671022" />
+  <note player="Regicide1700" label="3" update="1515671022" />
+  <note player="CaptnKbec" label="3" update="1515671022" />
+  <note player="nikolya688" label="3" update="1515671022" />
+  <note player="Ad Adi 7" label="3" update="1515671022" />
+  <note player="playinagame" label="3" update="1515671022" />
+  <note player="kassyka21" label="3" update="1515671022" />
+  <note player="ville84" label="3" update="1515671022" />
+  <note player="white071" label="3" update="1515671022" />
+  <note player="RED PEGASUS" label="3" update="1515671022" />
+  <note player="igrok$148" label="3" update="1515671022" />
+  <note player="Artak622" label="3" update="1515671022" />
+  <note player="vasil4o77" label="3" update="1515671022" />
+  <note player="OldAntelopes" label="3" update="1515671022" />
+  <note player="felipelopess" label="3" update="1515671022" />
+  <note player="MYLESXLONG" label="3" update="1515671022" />
+  <note player="Peter2613008" label="3" update="1515671022" />
+  <note player="nadinebayer" label="3" update="1515671022" />
+  <note player="makc14rus" label="3" update="1515671022" />
+  <note player="redman2015" label="3" update="1515671022" />
+  <note player="DomPerignooon" label="3" update="1515671022" />
+  <note player="homersimpson11" label="3" update="1515671022" />
+  <note player="guth_mceh" label="3" update="1515671022" />
+  <note player="Get0FFmyAAss" label="3" update="1515671022" />
+  <note player="Big777D" label="3" update="1515671022" />
+  <note player="korje" label="3" update="1515671022" />
+  <note player="playP-N" label="3" update="1515671022" />
+  <note player="Juve_doido" label="3" update="1515671022" />
+  <note player="dennys1" label="3" update="1515671022" />
+  <note player="shlanberov" label="3" update="1515671022" />
+  <note player="repak85" label="3" update="1515671022" />
+  <note player="nciprianu" label="3" update="1515671022" />
+  <note player="Tallemania" label="3" update="1515671022" />
+  <note player="re diaoleeee" label="3" update="1515671022" />
+  <note player="Paddywayne" label="3" update="1515671022" />
+  <note player="greenpiker" label="3" update="1515671022" />
+  <note player="sochi251286" label="3" update="1515671022" />
+  <note player="Rus. Pioneer" label="3" update="1515671022" />
+  <note player="pure-fish-01" label="3" update="1515671022" />
+  <note player="rk_bsn" label="3" update="1515671022" />
+  <note player="enkhtur23" label="3" update="1515671022" />
+  <note player="Avraam999" label="3" update="1515671022" />
+  <note player="elKadetto" label="3" update="1515671022" />
+  <note player="nimatonima" label="3" update="1515671022" />
+  <note player="Wageluster" label="3" update="1515671022" />
+  <note player="Lockport rd" label="3" update="1515671022" />
+  <note player="turlev8394" label="3" update="1515671022" />
+  <note player="NemeanDanny" label="3" update="1515671022" />
+  <note player="IvKos45" label="3" update="1515671022" />
+  <note player="lidia121000" label="3" update="1515671022" />
+  <note player="panik836" label="3" update="1515671022" />
+  <note player="Pavlick83" label="3" update="1515671022" />
+  <note player="alexpa32" label="3" update="1515671022" />
+  <note player="mrdenny666" label="3" update="1515671022" />
+  <note player="fazendarr" label="3" update="1515671022" />
+  <note player="TattooMos" label="3" update="1515671022" />
+  <note player="99nutsTOTO" label="3" update="1515671022" />
+  <note player="tobitusch" label="3" update="1515671022" />
+  <note player="Fill 963" label="3" update="1515671022" />
+  <note player="nyborg4" label="3" update="1515671022" />
+  <note player="Michi0718" label="3" update="1515671022" />
+  <note player="Toolman6969" label="3" update="1515671022" />
+  <note player="RichardAKQJ" label="3" update="1515671022" />
+  <note player="AB.PRO.73" label="3" update="1515671022" />
+  <note player="azsokko82" label="3" update="1515671022" />
+  <note player="Miyagishima" label="3" update="1515671022" />
+  <note player="IZBlood" label="3" update="1515671022" />
+  <note player="floche91" label="3" update="1515671022" />
+  <note player="Banderovec" label="3" update="1515671022" />
+  <note player="kovacs711" label="3" update="1515671022" />
+  <note player="markust12" label="3" update="1515671022" />
+  <note player="riseel" label="3" update="1515671022" />
+  <note player="maiivan" label="3" update="1515671022" />
+  <note player="TRAUMADAM" label="3" update="1515671022" />
+  <note player="Candlow" label="3" update="1515671022" />
+  <note player="miokusic" label="3" update="1515671022" />
+  <note player="badbets" label="3" update="1515671022" />
+  <note player="laget666" label="3" update="1515671022" />
+  <note player="Marco pa 247" label="3" update="1515671022" />
+  <note player="Mr. Fales" label="3" update="1515671022" />
+  <note player="gsmoney400" label="3" update="1515671022" />
+  <note player="Skorpion1481" label="3" update="1515671022" />
+  <note player="Frocen07" label="3" update="1515671022" />
+  <note player="lykich46" label="3" update="1515671022" />
+  <note player="tixonja" label="3" update="1515671022" />
+  <note player="Vascaino_017" label="3" update="1515671022" />
+  <note player="s.viktor..." label="3" update="1515671022" />
+  <note player="spartak878" label="3" update="1515671022" />
+  <note player="Potapov717" label="3" update="1515671022" />
+  <note player="donatello596" label="3" update="1515671022" />
+  <note player="mihail351980" label="3" update="1515671022" />
+  <note player="pokerpontas" label="3" update="1515671022" />
+  <note player="markom66" label="3" update="1515671022" />
+  <note player="DanielGuaranha" label="3" update="1515671022" />
+  <note player="dimitrii-85" label="3" update="1515671022" />
+  <note player="wildhoney" label="3" update="1515671022" />
+  <note player="flamessssss" label="3" update="1515671022" />
+  <note player="cancaba" label="3" update="1515671022" />
+  <note player="aceofdonks" label="3" update="1515671022" />
+  <note player="gen_JIagen" label="3" update="1515671022" />
+  <note player="crafty den" label="3" update="1515671022" />
+  <note player="levirus10" label="3" update="1515671022" />
+  <note player="Petedrome" label="3" update="1515671022" />
+  <note player="nroJ" label="3" update="1515671022" />
+  <note player="Bunio1987" label="3" update="1515671022" />
+  <note player="bula4827" label="3" update="1515671022" />
+  <note player="BOR4UN1978" label="3" update="1515671022" />
+  <note player="CallmeAarif" label="3" update="1515671022" />
+  <note player="DanilevskiyD" label="3" update="1515671022" />
+  <note player="mr.mineiro" label="3" update="1515671022" />
+  <note player="AMARTF" label="3" update="1515671022" />
+  <note player="Storogh1087" label="3" update="1515671022" />
+  <note player="m_carrillo89" label="3" update="1515671022" />
+  <note player="Emporio212" label="3" update="1515671022" />
+  <note player="pernaRR" label="3" update="1515671022" />
+  <note player="TBahls" label="3" update="1515671022" />
+  <note player="kkkaaammm111" label="3" update="1515671022" />
+  <note player="Iron PET" label="3" update="1515671022" />
+  <note player="AngryRus777" label="3" update="1515671022" />
+  <note player="sporttoto" label="3" update="1515671022" />
+  <note player="hcosta19" label="3" update="1515671022" />
+  <note player="buckbig007" label="3" update="1515671022" />
+  <note player="wagnerfubu" label="3" update="1515671022" />
+  <note player="Pokelina" label="3" update="1515671022" />
+  <note player="L.Sem.Win" label="3" update="1515671022" />
+  <note player="streuauto" label="3" update="1515671022" />
+  <note player="Leandreen" label="3" update="1515671022" />
+  <note player="parfum2017" label="3" update="1515671022" />
+  <note player="Poker454329" label="3" update="1515671022" />
+  <note player="kola05" label="3" update="1515671022" />
+  <note player="slowmoguy" label="3" update="1515671022" />
+  <note player="komis70" label="3" update="1515671022" />
+  <note player="szultimulti" label="3" update="1515671022" />
+  <note player="MAGAVALERA" label="3" update="1515671022" />
+  <note player="TK120" label="3" update="1515671022" />
+  <note player="Stoyan1993" label="3" update="1515671022" />
+  <note player="thaihuynh71" label="3" update="1515671022" />
+  <note player="cdh_cdh" label="3" update="1515671022" />
+  <note player="johnny7141" label="3" update="1515671022" />
+  <note player="Allbatros95" label="3" update="1515671022" />
+  <note player="master-neto" label="3" update="1515671022" />
+  <note player="mops601" label="3" update="1515671022" />
+  <note player="Sperioks" label="3" update="1515671022" />
+  <note player="Abraça a BAD" label="3" update="1515671022" />
+  <note player="rk_ito7" label="3" update="1515671022" />
+  <note player="GR.NIGHTHAWK" label="3" update="1515671022" />
+  <note player="AAlmirFocKK" label="3" update="1515671022" />
+  <note player="teskyc23" label="3" update="1515671022" />
+  <note player="Born_Again7" label="3" update="1515671022" />
+  <note player="elev8ted" label="3" update="1515671022" />
+  <note player="jeton174" label="3" update="1515671022" />
+  <note player="reg_name" label="3" update="1515671022" />
+  <note player="HoudiniV3" label="3" update="1515671022" />
+  <note player="joseph_alexan" label="3" update="1515671022" />
+  <note player="bushkoffale" label="3" update="1515671022" />
+  <note player="Konrad119977" label="3" update="1515671022" />
+  <note player="ginette737" label="3" update="1515671022" />
+  <note player="francoy09" label="3" update="1515671022" />
+  <note player="bg001" label="3" update="1515671022" />
+  <note player="blagoyovka66" label="3" update="1515671022" />
+  <note player="Vydra74" label="3" update="1515671022" />
+  <note player="criop87" label="3" update="1515671022" />
+  <note player="piloudij" label="3" update="1515671022" />
+  <note player="luckinsearch" label="3" update="1515671022" />
+  <note player="VAR031" label="3" update="1515671022" />
+  <note player="Sergei300872" label="3" update="1515671022" />
+  <note player="longgaqy" label="3" update="1515671022" />
+  <note player="gameboss_11" label="3" update="1515671022" />
+  <note player="gyndkrk" label="3" update="1515671022" />
+  <note player="cherrybiter65" label="3" update="1515671022" />
+  <note player="liangyellow" label="3" update="1515671022" />
+  <note player="Tomas Tal31" label="3" update="1515671022" />
+  <note player="T3Mafi" label="3" update="1515671022" />
+  <note player="rpineault" label="3" update="1515671022" />
+  <note player="amina1962" label="3" update="1515671022" />
+  <note player="Saci24" label="3" update="1515671022" />
+  <note player="emito82" label="3" update="1515671022" />
+  <note player="G13Dr" label="3" update="1515671022" />
+  <note player="pitbull1188" label="3" update="1515671022" />
+  <note player="jonnthehot" label="3" update="1515671022" />
+  <note player="IceFlyer70" label="3" update="1515671022" />
+  <note player="gordon0121" label="3" update="1515671022" />
+  <note player="Binario" label="3" update="1515671022" />
+  <note player="oleg82" label="3" update="1515671022" />
+  <note player="RSHn1ko" label="3" update="1515671022" />
+  <note player="Dmitrij792" label="3" update="1515671022" />
+  <note player="Always_Stacked" label="3" update="1515671022" />
+  <note player="valera19788" label="3" update="1515671022" />
+  <note player="Panda0777" label="3" update="1515671022" />
+  <note player="juanortuzar1979" label="3" update="1515671022" />
+  <note player="mana987" label="3" update="1515671022" />
+  <note player="eKuwaki" label="3" update="1515671022" />
+  <note player="Gio-Che" label="3" update="1515671022" />
+  <note player="SerFrancuz11" label="3" update="1515671022" />
+  <note player="Cooter32" label="3" update="1515671022" />
+  <note player="dammeren99" label="3" update="1515671022" />
+  <note player="romanc0ka1" label="3" update="1515671022" />
+  <note player="BabloRub17" label="3" update="1515671022" />
+  <note player="potap2877" label="3" update="1515671022" />
+  <note player="BRANDONLEE79" label="3" update="1515671022" />
+  <note player="198039" label="3" update="1515671022" />
+  <note player="1313Sergey13" label="3" update="1515671022" />
+  <note player="Lukkaspiraju" label="3" update="1515671022" />
+  <note player="hajdesz" label="3" update="1515671022" />
+  <note player="Mosel24" label="3" update="1515671022" />
+  <note player="guntv" label="3" update="1515671022" />
+  <note player="ironman5461" label="3" update="1515671022" />
+  <note player="celtom72" label="3" update="1515671022" />
+  <note player="234145" label="3" update="1515671022" />
+  <note player="Rider$Fan100" label="3" update="1515671022" />
+  <note player="FLAVIOENG" label="3" update="1515671022" />
+  <note player="crownmeKi923" label="3" update="1515671022" />
+  <note player="canjgeta" label="3" update="1515671022" />
+  <note player="MarryYaMasha" label="3" update="1515671022" />
+  <note player="josseluisfi" label="3" update="1515671022" />
+  <note player="paul660" label="3" update="1515671022" />
+  <note player="mogul19" label="3" update="1515671022" />
+  <note player="DjonPas" label="3" update="1515671022" />
+  <note player="yuriko2011" label="3" update="1515671022" />
+  <note player="clestonc" label="3" update="1515671022" />
+  <note player="kuajinais" label="3" update="1515671022" />
+  <note player="raph.kh" label="3" update="1515671022" />
+  <note player="muahhahaha12" label="3" update="1515671022" />
+  <note player="gegegalo11" label="3" update="1515671022" />
+  <note player="krem161187" label="3" update="1515671022" />
+  <note player="JWinz89" label="3" update="1515671022" />
+  <note player="tennisprotennis" label="3" update="1515671022" />
+  <note player="shimpy6" label="3" update="1515671022" />
+  <note player="Vovchik445" label="3" update="1515671022" />
+  <note player="Bob Schtz" label="3" update="1515671022" />
+  <note player="player 2727" label="3" update="1515671022" />
+  <note player="A.PORTELINHA" label="3" update="1515671022" />
+  <note player="s_jargaa" label="3" update="1515671022" />
+  <note player="hulksmash420" label="3" update="1515671022" />
+  <note player="jealdagdag" label="3" update="1515671022" />
+  <note player="zagrebnagreb" label="3" update="1515671022" />
+  <note player="nepizdityt" label="3" update="1515671022" />
+  <note player="thadutra" label="3" update="1515671022" />
+  <note player="julinhobrazu" label="3" update="1515671022" />
+  <note player="timekeeper71" label="3" update="1515671022" />
+  <note player="Mark50Poker" label="3" update="1515671022" />
+  <note player="abili j" label="3" update="1515671022" />
+  <note player="boumbakla" label="3" update="1515671022" />
+  <note player="GrindGear4th" label="3" update="1515671022" />
+  <note player="lacels" label="3" update="1515671022" />
+  <note player="RomanXXX1969" label="3" update="1515671022" />
+  <note player="bayaraac1" label="3" update="1515671022" />
+  <note player="multiman2000" label="3" update="1515671022" />
+  <note player="badbeater881" label="3" update="1515671022" />
+  <note player="salti3" label="3" update="1515671022" />
+  <note player="Tharev85" label="3" update="1515671022" />
+  <note player="humo97" label="3" update="1515671022" />
+  <note player="Emilie20386" label="3" update="1515671022" />
+  <note player="dionysaida" label="3" update="1515671022" />
+  <note player="MolAlVal" label="3" update="1515671022" />
+  <note player="FanLi" label="3" update="1515671022" />
+  <note player="makimaki65" label="3" update="1515671022" />
+  <note player="afca-kaboute" label="3" update="1515671022" />
+  <note player="biloca321" label="3" update="1515671022" />
+  <note player="Disharmonist" label="3" update="1515671022" />
+  <note player="ersin93" label="3" update="1515671022" />
+  <note player="FRANCK19757" label="3" update="1515671022" />
+  <note player="PAKETbI111" label="3" update="1515671022" />
+  <note player="rustam90" label="3" update="1515671022" />
+  <note player="jokerwar402" label="3" update="1515671022" />
+  <note player="lysinplex" label="3" update="1515671022" />
+  <note player="Anarlfc23" label="3" update="1515671022" />
+  <note player="finaltable8" label="3" update="1515671022" />
+  <note player="sallie009" label="3" update="1515671022" />
+  <note player="mangoosepoker" label="3" update="1515671022" />
+  <note player="nobre1996" label="3" update="1515671022" />
+  <note player="nicbabart" label="3" update="1515671022" />
+  <note player="KnubblePoker" label="3" update="1515671022" />
+  <note player="Tropicana222" label="3" update="1515671022" />
+  <note player="nefike79" label="3" update="1515671022" />
+  <note player="Buhalych" label="3" update="1515671022" />
+  <note player="smiley8818" label="3" update="1515671022" />
+  <note player="tonyplumbbum2" label="3" update="1515671022" />
+  <note player="cris marr89" label="3" update="1515671022" />
+  <note player="RikJ21" label="3" update="1515671022" />
+  <note player="EViiizWasteD" label="3" update="1515671022" />
+  <note player="M84300000" label="3" update="1515671022" />
+  <note player="PokerDFS" label="3" update="1515671022" />
+  <note player="XvvJl3r4" label="3" update="1515671022" />
+  <note player="Ildus_Oktb" label="3" update="1515671022" />
+  <note player="WhiteDeath55" label="3" update="1515671022" />
+  <note player="walle842" label="3" update="1515671022" />
+  <note player="pinkiller666" label="3" update="1515671022" />
+  <note player="Dennii92" label="3" update="1515671022" />
+  <note player="poker4everi" label="3" update="1515671022" />
+  <note player="kitsos142" label="3" update="1515671022" />
+  <note player="Nkita79" label="3" update="1515671022" />
+  <note player="Vuds" label="3" update="1515671022" />
+  <note player="perrier81" label="3" update="1515671022" />
+  <note player="Gucci Doug" label="3" update="1515671022" />
+  <note player="Dmitrii_Papa" label="3" update="1515671022" />
+  <note player="coba250972" label="3" update="1515671022" />
+  <note player="Spaik-in-khv" label="3" update="1515671022" />
+  <note player="MaroccoBluff" label="3" update="1515671022" />
+  <note player="Joshua-Steve" label="3" update="1515671022" />
+  <note player="joshbarker7" label="3" update="1515671022" />
+  <note player="aleksmonakh" label="3" update="1515671022" />
+  <note player="tealsea76" label="3" update="1515671022" />
+  <note player="tuninetti2" label="3" update="1515671022" />
+  <note player="Klingberg14" label="3" update="1515671022" />
+  <note player="zaharuk" label="3" update="1515671022" />
+  <note player="Nitchi777" label="3" update="1515671022" />
+  <note player="FPmitando" label="3" update="1515671022" />
+  <note player="jockwilly" label="3" update="1515671022" />
+  <note player="compass74" label="3" update="1515671022" />
+  <note player="Toph144" label="3" update="1515671022" />
+  <note player="SASV490" label="3" update="1515671022" />
+  <note player="Fisha99" label="3" update="1515671022" />
+  <note player="mistery582" label="3" update="1515671022" />
+  <note player="pasya87" label="3" update="1515671022" />
+  <note player="faithless" label="3" update="1515671022" />
+  <note player="iulica_320" label="3" update="1515671022" />
+  <note player="lobbymad" label="3" update="1515671022" />
+  <note player="LordCyfer" label="3" update="1515671022" />
+  <note player="slack_aa" label="3" update="1515671022" />
+  <note player="zwgos13" label="3" update="1515671022" />
+  <note player="HomerSimpson11" label="3" update="1515671022" />
+  <note player="IFlopTopTop" label="3" update="1515671022" />
+  <note player="ffvo" label="3" update="1515671022" />
+  <note player="+chacal+br" label="3" update="1515671022" />
+  <note player="Matze2976" label="3" update="1515671022" />
+</notes>
