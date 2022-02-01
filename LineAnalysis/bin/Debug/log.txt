@@ -1,7 +1,0 @@
-======startload===========4/10/2018 10:20:35 AM==================
-HOST=127.0.0.1;PORT=5432;PROTOCOL=3;DATABASE=party;USER ID=postgres;PASSWORD=postgrespass;SSL=False;SSLMODE=Disable;TIMEOUT=15;SEARCHPATH=;POOLING=True;CONNECTIONLIFETIME=15;MINPOOLSIZE=1;MAXPOOLSIZE=20;SYNCNOTIFICATION=False;COMMANDTIMEOUT=200;ENLIST=False;PRELOADREADER=False;USEEXTENDEDTYPES=False;INTEGRATED SECURITY=False;COMPATIBLE=2.0.11.91;ENCODING=UNICODE
-4/10/2018 2:08:42 PM   4/10/2018 10:20:33 AM
-===============================================================
-====================4/10/2018 10:20:35 AM========================
-Completed. All hands 0. Loaded 0. Errors 0. Duplicates 0
-===============================================================
