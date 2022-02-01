@@ -1,0 +1,40 @@
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Release\Npgsql.dll
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Release\Mono.Security.dll
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormImport.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.MainForm.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.Properties.Resources.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\LineAnalysis.csproj.GenerateResource.Cache
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Release\LineAnalysis.exe.config
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Release\LineAnalysis.exe
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Release\LineAnalysis.pdb
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\LineAnalysis.exe
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\LineAnalysis.pdb
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormCreateDataBase.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormNotes.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormSettings.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\LineAnalysis.csprojResolveAssemblyReference.cache
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Release\az-Cyrl\LineAnalysis.resources.dll
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormHand.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormHand.az-Cyrl.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\az-Cyrl\LineAnalysis.resources.dll
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormOverall.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\bin\Release\LineAnalysis.exe.config
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\LineAnalysis.exe
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\LineAnalysis.pdb
+C:\Проги\LineAnalysis Open\HmLineAnalysis\bin\Release\LineAnalysis.exe
+C:\Проги\LineAnalysis Open\HmLineAnalysis\bin\Release\LineAnalysis.pdb
+C:\Проги\LineAnalysis Open\HmLineAnalysis\bin\Release\az-Cyrl\LineAnalysis.resources.dll
+C:\Проги\LineAnalysis Open\HmLineAnalysis\bin\Release\Npgsql.dll
+C:\Проги\LineAnalysis Open\HmLineAnalysis\bin\Release\Mono.Security.dll
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\LineAnalysis.csprojResolveAssemblyReference.cache
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormCreateDataBase.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormHand.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormImport.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormNotes.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormOverall.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormSettings.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.MainForm.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.Properties.Resources.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\HmLineAnalysis.FormHand.az-Cyrl.resources
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\LineAnalysis.csproj.GenerateResource.Cache
+C:\Проги\LineAnalysis Open\HmLineAnalysis\obj\x86\Release\az-Cyrl\LineAnalysis.resources.dll

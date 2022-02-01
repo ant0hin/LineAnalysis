@@ -1,0 +1,11 @@
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Debug\HmLineAnalysis.exe
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Debug\HmLineAnalysis.pdb
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.Properties.Resources.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.csproj.GenerateResource.Cache
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.exe
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.pdb
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.MainForm.resources
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.csprojResolveAssemblyReference.cache
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Debug\Mono.Security.dll
+C:\Проги\HmLineAnalysis\HmLineAnalysis\bin\Debug\HmLineAnalysis.exe.config
+C:\Проги\HmLineAnalysis\HmLineAnalysis\obj\x86\Debug\HmLineAnalysis.FormImport.resources
